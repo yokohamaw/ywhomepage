@@ -1223,13 +1223,19 @@ footer {
   text-decoration: none;
   color: #fff;
   color: #5d627b;
-
+  color: yellow;
 }
 
 .footer_wrap_nav_list a:hover {
   background-color: #2ca9e1;
-  color: #fff
+  color: #fff;
+  color: yellow;
 }
+
+
+/* .footer_wrap_nav_item a:hover {
+  background-color: pink;
+} */
 
 .copylight {
   text-align: center;

@@ -1170,8 +1170,20 @@ transform: scale(1,1);
 
 .container_fourth {
   margin-left: 310px;
-  z-index: 4:
+  z-index: 4;
 }
+
+.container_eighth {
+  margin-left: 310px;
+  text-align: center;
+  z-index: 4;
+}
+.container_eighth p {
+  text-align: center;
+}
+/* .container_eighth img {
+  margin: auto;
+} */
 
 nav p {
   color: #fff;

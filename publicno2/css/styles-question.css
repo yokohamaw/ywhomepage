@@ -377,6 +377,7 @@ li img {
 .hidden_box {
   margin: 2pm 0;
   padding: 0;
+  text-align: center;
 }
 
 .hidden_box label {
@@ -470,8 +471,8 @@ details > p {
 
 
 .question_list p {
-  font-size: 17px;
-  /* font-weight: bold; */
+  font-size: 1.9rem;
+  font-weight: bold;
   text-align: left;
   color: #5d627b;
   margin: 5px 7px;
@@ -520,12 +521,12 @@ li img {
   color: #2ca9e1;
   color: #474a4d;
   color: #5d627b;
-  font-size: 20px;
-  font-weight: bold;
+  font-size: 1.8rem;  /* font-weight: bold; */
   /* float: left; */
   display: block;
   text-align: left;
   vertical-align: top;
+  margin: 0 0 0 10px;
 }
 
 .hidden_box {
@@ -542,6 +543,7 @@ li img {
   border-radius: 5px;
   margin:5px 0px;
   color: #2ca9e1;
+  text-align: center;
 }
 
 .hidden_box label:hover {
@@ -1171,6 +1173,10 @@ transform: scale(1,1);
 .container_fourth {
   margin-left: 310px;
   z-index: 4:
+}
+.container_seventh {
+  margin-left: 310px;
+  z-index: 4;
 }
 
 nav p {
